@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/material-ui-tutorial/static/css/main.012133c0.chunk.css",
+    "main.js": "/material-ui-tutorial/static/js/main.631854d7.chunk.js",
+    "main.js.map": "/material-ui-tutorial/static/js/main.631854d7.chunk.js.map",
+    "runtime-main.js": "/material-ui-tutorial/static/js/runtime-main.472f0282.js",
+    "runtime-main.js.map": "/material-ui-tutorial/static/js/runtime-main.472f0282.js.map",
+    "static/css/2.6484d038.chunk.css": "/material-ui-tutorial/static/css/2.6484d038.chunk.css",
+    "static/js/2.7f4e042d.chunk.js": "/material-ui-tutorial/static/js/2.7f4e042d.chunk.js",
+    "static/js/2.7f4e042d.chunk.js.map": "/material-ui-tutorial/static/js/2.7f4e042d.chunk.js.map",
+    "static/js/3.7f82591f.chunk.js": "/material-ui-tutorial/static/js/3.7f82591f.chunk.js",
+    "static/js/3.7f82591f.chunk.js.map": "/material-ui-tutorial/static/js/3.7f82591f.chunk.js.map",
+    "index.html": "/material-ui-tutorial/index.html",
+    "static/css/2.6484d038.chunk.css.map": "/material-ui-tutorial/static/css/2.6484d038.chunk.css.map",
+    "static/css/main.012133c0.chunk.css.map": "/material-ui-tutorial/static/css/main.012133c0.chunk.css.map",
+    "static/js/2.7f4e042d.chunk.js.LICENSE.txt": "/material-ui-tutorial/static/js/2.7f4e042d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/material-ui-tutorial/static/media/logo.6ce24c58.svg",
+    "static/media/index.css": "/material-ui-tutorial/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472f0282.js",
+    "static/css/2.6484d038.chunk.css",
+    "static/js/2.7f4e042d.chunk.js",
+    "static/css/main.012133c0.chunk.css",
+    "static/js/main.631854d7.chunk.js"
+  ]
+}
